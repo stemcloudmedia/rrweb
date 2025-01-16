@@ -1,5 +1,15 @@
 # @rrweb/web-extension
 
+## 2.0.0-alpha.19
+
+### Patch Changes
+
+- [#1568](https://github.com/rrweb-io/rrweb/pull/1568) [`4fd55c0`](https://github.com/rrweb-io/rrweb/commit/4fd55c0669df955001cbd362582c6bce179d7250) Thanks [@YunFeng0817](https://github.com/YunFeng0817)! - fix: remove the permission not needed and update the player style link
+
+- Updated dependencies [[`dc20cd4`](https://github.com/rrweb-io/rrweb/commit/dc20cd45cc63058325784444af6bd32ed2cace48)]:
+  - rrweb@2.0.0-alpha.19
+  - rrweb-player@2.0.0-alpha.19
+
 ## 2.0.0-alpha.18
 
 ### Patch Changes
